@@ -1,0 +1,8 @@
+# Build artifacts
+*.bit
+*.fasm
+*.frames
+*.json
+*.bba
+*.elf
+build.log
